@@ -1,6 +1,6 @@
 ## 一、背景
 
-从https://github.com/78778443/xssplatform那里衍生，做了一个docker，一键建XSS平台
+从https://github.com/78778443/xssplatform 那里衍生，做了一个docker，一键建XSS平台
 
 ## 二、下载源码
 
