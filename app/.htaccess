@@ -1,0 +1,4 @@
+rewrite "^/([0-9a-zA-Z]{6})$" /index.php?do=code&urlKey=$1 last;
+rewrite "^/do/auth/(\w+?)(/domain/([\w\.]+?))?$" /index.php?do=do&auth=$1&domain=$3 last;
+rewrite "^/register/(.*?)$" /index.php?do=register&key=$1 last;
+rewrite "^/register-validate/(.*?)$" /index.php?do=register&act=validate&key=$1 last;
