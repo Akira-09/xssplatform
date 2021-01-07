@@ -4,7 +4,7 @@
 
 ## 二、下载源码
 
-git clone https://github.com/Akira-09/xssplatform.git
+git clone https://github.com/Akira-09/xssplatform_docker.git
 
 ## 三、运行
 
